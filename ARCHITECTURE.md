@@ -32,7 +32,7 @@ The experiment was performed in a completely isolated wireless environment.
 
 ## Role Separation
 
-### Kali Linux #1 — Network Simulator
+### Kali Linux #1 - Network Simulator
 
 Responsible for providing a wireless environment that devices could voluntarily connect to.
 
@@ -47,7 +47,7 @@ This system behaved only as infrastructure.
 
 ---
 
-### Kali Linux #2 — Observer
+### Kali Linux #2 - Observer
 
 Performed passive observation only.
 
@@ -62,7 +62,7 @@ This system never interacted with the client device.
 
 ---
 
-### Android Device — Test Client
+### Android Device - Test Client
 
 A controlled device used to observe automatic network behavior.
 
