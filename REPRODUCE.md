@@ -40,7 +40,7 @@ The observer system must remain passive.
 
 ## High Level Procedure
 
-### Step 1 — Prepare Isolated Network
+### Step 1 - Prepare Isolated Network
 
 Create a nearby wireless network that allows device association but does not provide internet access.
 
@@ -49,7 +49,7 @@ Simulate presence of a typical public network.
 
 ---
 
-### Step 2 — Prepare Observer System
+### Step 2 - Prepare Observer System
 
 Start a passive packet capture system.
 
@@ -65,7 +65,7 @@ Observe natural device behavior.
 
 ---
 
-### Step 3 — Baseline Recording
+### Step 3 - Baseline Recording
 
 Record the environment before any device connects.
 
@@ -74,7 +74,7 @@ Prove the network is initially silent.
 
 ---
 
-### Step 4 — Association Event
+### Step 4 - Association Event
 
 Connect the test device to the network and leave it idle.
 
@@ -87,7 +87,7 @@ Observe automatic operating system activity.
 
 ---
 
-### Step 5 — Observation Period
+### Step 5 - Observation Period
 
 Allow the device to remain connected for several minutes.
 
@@ -98,7 +98,7 @@ Capture background communication patterns.
 
 ---
 
-### Step 6 — Preservation
+### Step 6 - Preservation
 
 Stop capture and preserve files using integrity verification.
 
