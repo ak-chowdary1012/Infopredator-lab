@@ -38,7 +38,7 @@ Even without decrypting traffic, passive observation can reveal:
 * Connectivity retry behavior
 * Service dependencies
 
-This is metadata exposure — not data theft — but it still reduces user anonymity in shared environments.
+This is metadata exposure - not data theft - but it still reduces user anonymity in shared environments.
 
 ---
 
@@ -67,7 +67,7 @@ Safer behaviour in unknown wireless environments:
 * Treat connection as an active disclosure event
 * Prefer trusted networks when possible
 
-This is not about paranoia — it is about understanding device behavior.
+This is not about paranoia - it is about understanding device behavior.
 
 ---
 
