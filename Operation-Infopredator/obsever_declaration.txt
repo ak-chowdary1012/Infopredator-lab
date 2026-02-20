@@ -1,0 +1,12 @@
+Observer System Decleration 
+
+This device is configured as a passive wireless observer.
+
+Capacities disabled :
+
+- No network association
+- Np packet injection
+- No Deauthentication
+- No MITM forwarding
+
+The interface operates only in monitior mode for capture purposes.

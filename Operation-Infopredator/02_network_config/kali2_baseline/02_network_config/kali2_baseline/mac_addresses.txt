@@ -1,0 +1,5 @@
+    link/ether 28:c5:c8:39:8c:e9 brd ff:ff:ff:ff:ff:ff
+    link/ether 94:bb:43:1a:e9:ef brd ff:ff:ff:ff:ff:ff
+    link/ether 02:42:78:c9:19:f6 brd ff:ff:ff:ff:ff:ff
+    link/ether 02:42:f7:c9:f8:61 brd ff:ff:ff:ff:ff:ff
+    link/ether 9e:8d:ca:84:88:2b brd ff:ff:ff:ff:ff:ff link-netnsid 0

@@ -1,0 +1,21 @@
+	Supported interface modes:
+		 * managed
+		 * AP
+		 * AP/VLAN
+		 * monitor
+		 * P2P-client
+		 * P2P-GO
+		 * P2P-device
+	Band 1:
+		Capabilities: 0x9ff
+			RX LDPC
+			HT20/HT40
+			SM Power Save disabled
+			RX Greenfield
+			RX HT20 SGI
+			RX HT40 SGI
+			TX STBC
+			RX STBC 1-stream
+			Max AMSDU length: 7935 bytes
+			No DSSS/CCK HT40
+		Maximum RX AMPDU length 65535 bytes (exponent: 0x003)

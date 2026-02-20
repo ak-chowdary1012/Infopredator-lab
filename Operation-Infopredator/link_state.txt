@@ -1,0 +1,12 @@
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN mode DEFAULT group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+2: eth0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc fq_codel state DOWN mode DEFAULT group default qlen 1000
+    link/ether 28:c5:c8:39:8c:e9 brd ff:ff:ff:ff:ff:ff
+3: wlan0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc noqueue state UP mode DEFAULT group default qlen 1000
+    link/ieee802.11/radiotap 94:bb:43:1a:e9:ef brd ff:ff:ff:ff:ff:ff
+4: br-37b98f44ddfc: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc noqueue state UP mode DEFAULT group default 
+    link/ether 02:42:78:c9:19:f6 brd ff:ff:ff:ff:ff:ff
+5: docker0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc noqueue state DOWN mode DEFAULT group default 
+    link/ether 02:42:f7:c9:f8:61 brd ff:ff:ff:ff:ff:ff
+7: vethe1fb014@if6: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc noqueue master br-37b98f44ddfc state UP mode DEFAULT group default 
+    link/ether 9e:8d:ca:84:88:2b brd ff:ff:ff:ff:ff:ff link-netnsid 0

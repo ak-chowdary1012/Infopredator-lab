@@ -1,0 +1,28 @@
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host noprefixroute 
+       valid_lft forever preferred_lft forever
+2: eth0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc fq_codel state DOWN group default qlen 1000
+    link/ether 28:c5:c8:39:8c:e9 brd ff:ff:ff:ff:ff:ff
+3: wlan0: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc noqueue state UP group default qlen 1000
+    link/ether 94:bb:43:1a:e9:ef brd ff:ff:ff:ff:ff:ff
+    inet 10.113.20.164/16 brd 10.113.255.255 scope global dynamic noprefixroute wlan0
+       valid_lft 691094sec preferred_lft 691094sec
+    inet6 fe80::b37a:8142:e920:4646/64 scope link noprefixroute 
+       valid_lft forever preferred_lft forever
+4: br-37b98f44ddfc: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc noqueue state UP group default 
+    link/ether 02:42:78:c9:19:f6 brd ff:ff:ff:ff:ff:ff
+    inet 10.9.0.1/24 brd 10.9.0.255 scope global br-37b98f44ddfc
+       valid_lft forever preferred_lft forever
+    inet6 fe80::42:78ff:fec9:19f6/64 scope link proto kernel_ll 
+       valid_lft forever preferred_lft forever
+5: docker0: <NO-CARRIER,BROADCAST,MULTICAST,UP> mtu 1500 qdisc noqueue state DOWN group default 
+    link/ether 02:42:f7:c9:f8:61 brd ff:ff:ff:ff:ff:ff
+    inet 172.17.0.1/16 brd 172.17.255.255 scope global docker0
+       valid_lft forever preferred_lft forever
+7: vethe1fb014@if6: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc noqueue master br-37b98f44ddfc state UP group default 
+    link/ether 9e:8d:ca:84:88:2b brd ff:ff:ff:ff:ff:ff link-netnsid 0
+    inet6 fe80::9c8d:caff:fe84:882b/64 scope link proto kernel_ll 
+       valid_lft forever preferred_lft forever

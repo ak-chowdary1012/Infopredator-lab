@@ -1,0 +1,15 @@
+ Static hostname: kali
+       Icon name: computer-laptop
+         Chassis: laptop 💻
+      Machine ID: 0c19f3532c944c58b01573ae78ef3961
+         Boot ID: 37d90e6206404103b59b9e254bb14cad
+Operating System: Kali GNU/Linux Rolling
+          Kernel: Linux 6.18.9+kali-amd64
+    Architecture: x86-64
+ Hardware Vendor: HP
+  Hardware Model: Victus by HP Gaming Laptop 15-fb0xxx
+    Hardware SKU: A6SS2PA#ACJ
+Hardware Version: 35.49
+Firmware Version: F.25
+   Firmware Date: Fri 2026-01-09
+    Firmware Age: 1month 1w 5d

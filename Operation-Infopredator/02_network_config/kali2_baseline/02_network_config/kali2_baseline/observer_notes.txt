@@ -1,0 +1,10 @@
+Kali-2 Role: Passive Observer
+
+This system will only capture packets.
+No packet injection
+No deauthentication
+No MITM
+No rogue services
+
+Purpose:
+To reconstruct what information a nearby listener can learn when a device joins Wi-Fi.

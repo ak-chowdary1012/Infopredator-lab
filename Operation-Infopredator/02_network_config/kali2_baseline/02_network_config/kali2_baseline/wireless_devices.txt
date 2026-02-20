@@ -1,0 +1,16 @@
+phy#0
+	Unnamed/non-netdev interface
+		wdev 0x2
+		addr 94:bb:43:1a:e9:ef
+		type P2P-device
+		txpower 3.00 dBm
+	Interface wlan0
+		ifindex 3
+		wdev 0x1
+		addr 94:bb:43:1a:e9:ef
+		type managed
+		channel 9 (2452 MHz), width: 40 MHz, center1: 2442 MHz
+		txpower 3.00 dBm
+		multicast TXQ:
+			qsz-byt	qsz-pkt	flows	drops	marks	overlmt	hashcol	tx-bytes	tx-packets
+			0	0	0	0	0	0	0	0		0

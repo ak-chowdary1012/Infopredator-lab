@@ -1,0 +1,45 @@
+tcpdump version 4.99.5
+libpcap version 1.10.5 (with TPACKET_V3)
+OpenSSL 3.5.4 30 Sep 2025
+64-bit build, 64-bit time_t
+TShark (Wireshark) 4.6.3.
+
+Copyright 1998-2026 Gerald Combs <gerald@wireshark.org> and contributors.
+Licensed under the terms of the GNU General Public License (version 2 or later).
+This is free software; see the file named COPYING in the distribution. There is
+NO WARRANTY; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+Compile-time info:
+ Bit width: 64-bit
+  Compiler: GCC 15.2.0
+      GLib: 2.86.3
+ With:
+  +brotli                      +MaxMind
+  +Gcrypt 1.11.3               +nghttp2 1.64.0
+  +GnuTLS 3.8.11 and PKCS#11   +nghttp3 1.12.0
+  +Kerberos (MIT)              +PCRE2 10.46 2025-08-27
+  +libnl 3                     +POSIX capabilities (Linux)
+  +libpcap                     +Snappy 1.2.2
+  +libsmi 0.4.8                +xxhash 0.8.3
+  +libxml2 2.15.1              +zlib 1.3.1
+  +Lua 5.4.8                   +Zstandard 1.5.7
+  +LZ4 1.10.0
+ Without:
+  -zlib-ng
+
+Runtime info:
+      OS: Linux 6.18.9+kali-amd64
+     CPU: AMD Ryzen 5 5600H with Radeon Graphics (with SSE4.2)
+  Memory: 15323 MB of physical memory
+    GLib: 2.86.3
+  Locale: LC_TYPE=C.UTF-8
+ Plugins: supported, 0 loaded
+ With:
+  +brotli 1.2.0                      +nghttp2 1.64.0
+  +c-ares 1.34.6                     +nghttp3 1.12.0
+  +Gcrypt 1.11.3                     +PCRE2 10.46 2025-08-27
+  +GnuTLS 3.8.11                     +xxhash 803
+  +libpcap 1.10.5 (with TPACKET_V3)  +zlib 1.3.1
+  +libsmi 0.4.8                      +Zstandard 1.5.7
+  +LZ4 1.10.0
+rfkill from util-linux 2.41.3
