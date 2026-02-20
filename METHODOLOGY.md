@@ -4,7 +4,7 @@
 
 ## Research Goal
 
-To observe what information a modern mobile device reveals automatically after joining a nearby wireless network — without user interaction and without internet connectivity.
+To observe what information a modern mobile device reveals automatically after joining a nearby wireless network - without user interaction and without internet connectivity.
 
 The experiment focuses on passive observation only.
 
@@ -28,7 +28,7 @@ The following strict rules were enforced:
 
 ---
 
-### Phase 1 — Environment Preparation
+### Phase 1 - Environment Preparation
 
 A controlled wireless environment was created where:
 
@@ -42,7 +42,7 @@ To study device behavior under realistic but safe conditions.
 
 ---
 
-### Phase 2 — Baseline Capture
+### Phase 2 - Baseline Capture
 
 Before any device connected:
 
@@ -55,7 +55,7 @@ To prove that later observations originate from the test device.
 
 ---
 
-### Phase 3 — Association Event
+### Phase 3 - Association Event
 
 The Android device connected to the wireless network.
 
@@ -69,7 +69,7 @@ To study automatic operating system communication.
 
 ---
 
-### Phase 4 — Passive Observation
+### Phase 4 - Passive Observation
 
 The observer recorded only metadata patterns such as:
 
@@ -85,7 +85,7 @@ To measure exposure created purely by connection.
 
 ---
 
-### Phase 5 — Timeline Correlation
+### Phase 5 - Timeline Correlation
 
 A time anchor was introduced to align human observation and recorded data.
 
@@ -100,7 +100,7 @@ To demonstrate reproducibility.
 
 ---
 
-### Phase 6 — Evidence Preservation
+### Phase 6 - Evidence Preservation
 
 Captured data was preserved using integrity verification:
 
