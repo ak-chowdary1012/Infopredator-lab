@@ -99,3 +99,8 @@ This project was conducted strictly as academic research in an isolated lab. It 
 ## Takeaway
 
 Encryption protects data, but not always behavior. This experiment focuses on the space between those two - where systems remain secure, yet still observable.
+
+## Contributors
+
+**Nekkanti Venakata Avinash Krishna** — Experiment design, implementation, analysis and documentation  
+**Dheeraj Kommana** — Lab setup assistance, observation validation and testing support
